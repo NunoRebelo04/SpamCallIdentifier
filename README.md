@@ -65,24 +65,6 @@ This project follows a **clean MVVM architecture**:
 
 ---
 
-## 📂 Project Structure
-
-
-app/
-├── data/
-│ ├── dao/
-│ ├── entity/
-│ ├── repository/
-│ └── local/
-├── di/
-├── service/
-├── ui/
-│ ├── theme/
-│ └── screens/
-
-
----
-
 ## 🗄 Database
 
 The app uses **Room** for local data persistence with the following tables:
